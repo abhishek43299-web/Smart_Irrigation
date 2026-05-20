@@ -1,3 +1,4 @@
+//in the first 3 lines place your blynk template ID, template name and auth token 
 #define BLYNK_TEMPLATE_ID "TMPL3RvgsZeG7"
 #define BLYNK_TEMPLATE_NAME "smart irrigation demo"
 #define BLYNK_AUTH_TOKEN "tl3EJ9dHY1BF9shuC44V3i-_ZQ3HZegB"
